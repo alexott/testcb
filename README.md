@@ -15,3 +15,7 @@ More information:
 * [Development for Cassandra](development/)
 * [Integrations with 3rd party systems](integrations/)
 
+
+Best practices:
+* [For Application Development](best-practices/apps.md)
+* [For Planning](best-practices/planning.md)
